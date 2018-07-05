@@ -1,3 +1,0 @@
-# thunder
-Hello World
-dwad
