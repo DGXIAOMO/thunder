@@ -3,9 +3,7 @@ i2222
 i3333
 i4444
 issure 55
-hotfix
 issuer +1
-issuer +2
 issuer +3
 issuer +4
 finish
